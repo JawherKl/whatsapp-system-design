@@ -1,13 +1,11 @@
 # WhatsApp System Design
 
 ## Overview
-
 This project is an implementation of a WhatsApp-like messaging system using **Node.js**, **PostgreSQL**, **Kafka**, **WebSockets**, and **Firebase/Apple Push Notification Services**. It models users, groups, chats, and messages, while handling real-time messaging, group functionalities, and notification services.
 
 The architecture follows a microservices approach, with separate services for handling users, messaging, notifications, and file uploads.
 
 ## Table of Contents
-
 - [Architecture](#architecture)
 - [System Components](#system-components)
 - [Database Schema](#database-schema)
