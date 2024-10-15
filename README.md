@@ -18,7 +18,7 @@ The architecture follows a microservices approach, with separate services for ha
 
 ## Architecture
 
-![System Design Diagram](./path/to/your/architecture-image.png)
+![System Design Diagram](whatsapp-advanced-design.png)
 
 The system consists of the following components:
 
@@ -68,7 +68,7 @@ The system consists of the following components:
 
 ## Database Schema
 
-![Database Schema](./path/to/your/database-image.png)
+![Database Schema](whatsapp-datamodel.png)
 
 ### Main Entities
 
