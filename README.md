@@ -147,6 +147,3 @@ The system consists of the following components:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-Make sure to update paths like `./path/to/your/architecture-image.png` and `./path/to/your/database-image.png` with the actual paths to your images.
-```
